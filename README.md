@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
 
-![Kushagra's GitHub Stats](https://github.com/Kushagraw12/Kushagraw12/blob/master/api.svg)
-
-
-![Kushagra's GitHub Stats{api}](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
+![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
