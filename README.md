@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: E-mail: wadhwakushagra01@gmail.com
 - 😄 Pronouns: whatever you feel like!
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
-
-[Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api​?username=Kushagraw12&show_icons=true)
 <br />
-[Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
+[Click Me to see Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
