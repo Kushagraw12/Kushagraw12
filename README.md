@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Kushagra's GitHub Stats](https://github.com/Kushagraw12/Kushagraw12/blob/master/api.svg)
+
+
+![Kushagra's GitHub Stats{api}](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
