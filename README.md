@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development and ML competitions
 - 🤔 I’m looking for help with ML competitions
 - 💬 Ask me about React, Web Development(Front-end), Tensorflow, Keras, Basic ML models
-- 📫 How to reach me: [E-mail](mailto: wadhwakushagra01@gmail.com)  [LinkedIn](https://www.linkedin.com/in/kushagra-wadhwa12/)
+- 📫 How to reach me: [E-mail](mailto:wadhwakushagra01@gmail.com?subject=[GitHub]%20Source%20Readme)  [LinkedIn](https://www.linkedin.com/in/kushagra-wadhwa12/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
