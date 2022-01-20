@@ -1,42 +1,27 @@
-### Hi there 👋
-
-<!--
-**Kushagraw12/Kushagraw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently exploring ML and Web-Development, looking for opportunities to contribute to open source
-- 🌱 I’m currently learning Machine Learning, React-Native and a lot more
-- 👯 I’m looking to collaborate on Web Development and ML competitions
-- 🤔 I’m looking for help with ML competitions
-- 💬 Ask me about React, Web Development(Front-end), Tensorflow, Keras, Basic ML models
-- 📫 How to reach me: [E-mail](mailto:wadhwakushagra01@gmail.com?subject=[GitHub]%20Source%20Readme)  [LinkedIn](https://www.linkedin.com/in/kushagra-wadhwa12/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Tensorflow" height="26px" src="https://camo.githubusercontent.com/0905c7d634421f8aa4ab3ddf19a582572df568e1/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" />
-<img align="left" alt="Keras" width="27px" src="https://img.stackshare.io/service/5601/keras.png" />
-<!-- <img align="left" alt="Pytorch" height="26px" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" /> -->
+<h1 align="center">Hi 👋, I'm Kushagra Wadhwa</h1>
+<h3 align="center">A passionate developer, student and an open source enthusiast!</h3>
 
 
-<br />
-<br />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagraw12&theme=darkhub" alt="kushagraw12" /></a> </p>
 
----
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/kushagra-wadhwa12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="kushagraw12" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_kush.12/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="kushagraw12" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kushu12" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="kushagraw12" height="30" width="40" /></a>
+ <a href="https://medium.com/@kushagra12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="kushagraw12" height="30" width="40" /></a>
+<a href="http://codeforces.com/profile/Kushagra1209" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="kushagraw12" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
 <br/>
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-
-![Kushagra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushagraw12)
-<img alt="seneark's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagraw12&layout=compact&hide_border=true" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushagraw12&theme=dark" alt="kushagraw12" />
+</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagraw12&theme=dark" alt="kushagraw12" /></p>
