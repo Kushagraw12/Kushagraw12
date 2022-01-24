@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/kushagra-wadhwa12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="kushagraw12" height="30" width="40" /></a>
  <a href="https://twitter.com/kushagraw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushagraw12" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_kush.12/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="kushagraw12" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/_kush.12/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="kushagraw12" height="30" width="40" /></a> -->
 <a href="https://www.codechef.com/users/kushu12" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="kushagraw12" height="30" width="40" /></a>
  <a href="https://medium.com/@kushagra12" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-m-2.svg" alt="kushagraw12" height="30" width="40" /></a>
 <a href="http://codeforces.com/profile/Kushagra1209" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="kushagraw12" height="30" width="40" /></a>
